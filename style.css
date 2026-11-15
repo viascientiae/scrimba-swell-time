@@ -55,3 +55,15 @@ header {
   padding: 22px;
   margin: 12px;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--deep-sea);
+  color: white;
+}
+
+a {
+  color: inherit;
+}
